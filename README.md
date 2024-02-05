@@ -1,4 +1,4 @@
-hey im Alex or Kofi
+hey im Alex 
 I'm a dev for like anything i can do.
 
 <!---
